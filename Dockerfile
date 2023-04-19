@@ -3,7 +3,7 @@ WORKDIR /client
 COPY . .
 RUN npm install 
 
-FROM gcr.io/distroless/nodejs18-debian11
+FROM gcr.io/distroless/nodejs18-debian11 As Run
 COPY --from=build /client /client
 WORKDIR /client
 EXPOSE 3000
