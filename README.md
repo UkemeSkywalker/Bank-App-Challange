@@ -41,4 +41,4 @@ if you have any issues; use `npm audit fix` will automatically fix issues
    `localhost:8080` to access the application.
 
 
-## Setup Jenkins
+## Setup Jenkins Server
