@@ -39,3 +39,6 @@ if you have any issues; use `npm audit fix` will automatically fix issues
    `docker ps`
 8. Open the browser and use the url
    `localhost:8080` to access the application.
+
+
+## Setup Jenkins
