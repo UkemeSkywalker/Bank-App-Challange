@@ -43,3 +43,4 @@ if you have any issues; use `npm audit fix` will automatically fix issues
 
 ## Setup Jenkins Server
 1. Setup EC2 server on AWS using these specifications.
+Amazon Machine Image (AMI) - Ubuntu Server 20.04 LTS
