@@ -1,0 +1,6 @@
+FROM node:alpine
+WORKDIR /client
+COPY . .
+RUN npm install
+EXPOSE 300
+CMD [ "npm", "start" ]

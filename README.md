@@ -48,4 +48,4 @@ if you have any issues; use `npm audit fix` will automatically fix issues
 - Instance type - minimum requirement (t2.Medium) - 2 vCPU 4 GiB Memory
 
 2. After Server setup, ssh into the instance.
-   - Run thr commands in the insallation.sh file
+   - Run the commands in the insallation.sh file
